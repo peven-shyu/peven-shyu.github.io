@@ -22,11 +22,11 @@
 </table>
 
 - Collected minute-level historical trading data of cryptocurrencies from OKX, and completed data cleaning and preliminary processing.
-- Used tools such as Google Trends and the Reddit API to collect textual data on cryptocurrencies from the internet.    
+- Used tools such as Google Trends and the Reddit API to collect textual data on cryptocurrencies from the internet.
 
 <table style="width:100%; border:none;">
   <tr>
-    <td style="border:none;"><strong>First Seafront Fund Management Co., Ltd.</strong></td>
+    <td style="border:none;"><strong>TruValue Asset Management Co., Ltd.</strong></td>
     <td style="border:none; text-align:right;">Shenzhen, China<br>2023.07 - 2023.09</td>
   </tr>
 w</table>
@@ -45,4 +45,4 @@ w</table>
 
 - **Programming**: Python
 - **Tools**: Git, VS Code, Jupyter
-- **Languages**: English as a working language (TOEFL 104)
+- **Languages**: English(TOEFL 104/120)
